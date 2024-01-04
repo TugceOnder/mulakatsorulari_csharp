@@ -1,0 +1,7 @@
+C:\git yollanan projeler\c#mülakatsoruları\MulakatSorulari\MulakatSorulari\bin\Debug\MulakatSorulari.exe.config
+C:\git yollanan projeler\c#mülakatsoruları\MulakatSorulari\MulakatSorulari\bin\Debug\MulakatSorulari.exe
+C:\git yollanan projeler\c#mülakatsoruları\MulakatSorulari\MulakatSorulari\bin\Debug\MulakatSorulari.pdb
+C:\git yollanan projeler\c#mülakatsoruları\MulakatSorulari\MulakatSorulari\obj\Debug\MulakatSorulari.csproj.AssemblyReference.cache
+C:\git yollanan projeler\c#mülakatsoruları\MulakatSorulari\MulakatSorulari\obj\Debug\MulakatSorulari.csproj.CoreCompileInputs.cache
+C:\git yollanan projeler\c#mülakatsoruları\MulakatSorulari\MulakatSorulari\obj\Debug\MulakatSorulari.exe
+C:\git yollanan projeler\c#mülakatsoruları\MulakatSorulari\MulakatSorulari\obj\Debug\MulakatSorulari.pdb
